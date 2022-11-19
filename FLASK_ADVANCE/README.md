@@ -1,3 +1,8 @@
+# COME TO THE TUTORIAL IF YOU DO NOT UNDERSTAND!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# COME TO THE TUTORIAL IF YOU DO NOT UNDERSTAND!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# COME TO THE TUTORIAL IF YOU DO NOT UNDERSTAND!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 # FLASK CLASS & FUNCTION INTRODUCTION
 
 ## Flask()

@@ -110,5 +110,15 @@ class Item(db.Model):
             print(item)
 ```
 
+# Terminal SQLITE3
+
+```
+sudo apt update
+sudo apt upgrade
+sudo apt install sqlite3
+sqlite3 –version
+sudo apt update
+sudo apt install sqlitebrowser
+```
 
  
